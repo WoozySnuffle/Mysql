@@ -1,0 +1,6 @@
+name: Mysql
+main: me.woozy.mysql.Main
+version: 1.0
+author: WoozySnuffle
+description: Plugin de KitPvP
+commands:
